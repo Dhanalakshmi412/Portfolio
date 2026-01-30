@@ -6,6 +6,7 @@ It showcases my basic details, skills, and projects as part of my learning journ
 
 ## Technologies Used
 - HTML
+-css
 
 ## Sections Included
 - Home
