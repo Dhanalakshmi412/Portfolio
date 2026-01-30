@@ -1,42 +1,56 @@
-# Portfolio Website
+# Personal Portfolio Website
 
 ## Description
-This is my personal portfolio website created using HTML.  
-It showcases my basic details, skills, and projects as part of my learning journey during my 3rd year of Computer Science Engineering.
+This is my personal portfolio website developed using HTML and CSS.  
+It highlights my profile, skills, projects, and contact details as part of my learning journey as a Computer Science Engineering student.
 
 ## Technologies Used
 - HTML
--css
+- CSS
+- Basic JavaScript
 
 ## Sections Included
-- Home
+- Header with name and role
 - About Me
 - Skills
 - Projects
+- Resume Download
 - Contact Information
+- Footer
+
+## Projects Showcased
+### 1. Landing Page
+A simple and responsive landing page built using HTML and CSS with a clean layout and user-friendly design.
+
+### 2. Basic Calculator
+A basic calculator created using HTML, CSS, and JavaScript to perform arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
-- Simple and clean design
-- Easy navigation
-- Structured content layout
-- Beginner-friendly implementation
+- Clean and structured layout
+- Profile image and project images
+- Resume download option
+- Easy navigation and readability
+- Beginner-friendly design
 
 ## How to Use
 1. Download or clone the repository.
-2. Open the `index.html` file in any web browser.
-3. Explore the portfolio website.
+2. Make sure all files (HTML, CSS, images, resume) are in the same folder.
+3. Open the `index.html` file in any web browser.
 
 ## Purpose
 This project helped me understand:
-- Creating structured web pages
-- Organizing content using HTML
-- Building a basic personal portfolio
+- HTML page structure
+- Creating multiple sections in a webpage
+- Linking CSS for styling
+- Organizing content for a personal portfolio
 
-## Future Improvements
-- Add CSS for better styling
-- Make the website responsive
-- Add JavaScript for interactivity
-- Deploy the website online
+## Future Enhancements
+- Make the website fully responsive
+- Add more projects
+- Improve styling and animations
+- Add JavaScript interactivity
+- Deploy the portfolio online
 
 ## Author
-Dhanalakshmi K
+Dhanalakshmi  
+BE Computer Science Engineering Student
